@@ -31,6 +31,7 @@ ul {
 .aboutsub {
     color: #0000FF;
     font: 300 30px Poppins, sans-serif;
+    margin-top: -30px;
 }
 
 p {
@@ -88,8 +89,6 @@ p {
 .about {
     width: 100%;
 }
-
-
 
 .work {
     display: flex;
